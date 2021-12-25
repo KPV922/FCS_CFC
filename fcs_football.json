@@ -3,7 +3,7 @@
 			"confTeams": [{
 					"abbreviation": "PSU",
 					"prestige": "55",
-					"hexColor": "#B20837",
+					"hexColor": "#194534",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -54,7 +54,7 @@
 				{
 					"abbreviation": "EWU",
 					"prestige": "72",
-					"hexColor": "#EEA904",
+					"hexColor": "#9C0526",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -105,7 +105,7 @@
 				{
 					"abbreviation": "IDHO",
 					"prestige": "84",
-					"hexColor": "#592883",
+					"hexColor": "#AE8E62",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -156,7 +156,7 @@
 				{
 					"abbreviation": "UCD",
 					"prestige": "76",
-					"hexColor": "#B4975A",
+					"hexColor": "#020250",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -207,7 +207,7 @@
 				{
 					"abbreviation": "SACR",
 					"prestige": "90",
-					"hexColor": "#4F1F91",
+					"hexColor": "#03462E",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -258,7 +258,7 @@
 				{
 					"abbreviation": "POLY",
 					"prestige": "61",
-					"hexColor": "#98012E",
+					"hexColor": "#F9EDB7",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -309,7 +309,7 @@
 				{
 					"abbreviation": "IDST",
 					"prestige": "67",
-					"hexColor": "#F5CE03",
+					"hexColor": "#E17F34",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -360,7 +360,7 @@
 				{
 					"abbreviation": "MONT",
 					"prestige": "49",
-					"hexColor": "#FF0000",
+					"hexColor": "#62021E",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -411,7 +411,7 @@
 				{
 					"abbreviation": "MTST",
 					"prestige": "68",
-					"hexColor": "#FEBC17",
+					"hexColor": "#C09754",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -462,7 +462,7 @@
 				{
 					"abbreviation": "WBST",
 					"prestige": "79",
-					"hexColor": "#723130",
+					"hexColor": "#3F2575",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -519,7 +519,7 @@
 			"confTeams": [{
 					"abbreviation": "SUT",
 					"prestige": "81",
-					"hexColor": "#093A88",
+					"hexColor": "#C1686D",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -570,7 +570,7 @@
 				{
 					"abbreviation": "UCA",
 					"prestige": "84",
-					"hexColor": "#D6001C",
+					"hexColor": "#50268F",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -621,7 +621,7 @@
 				{
 					"abbreviation": "NAU",
 					"prestige": "73",
-					"hexColor": "#F15C22",
+					"hexColor": "#F4D22B",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -672,7 +672,7 @@
 				{
 					"abbreviation": "NOCO",
 					"prestige": "85",
-					"hexColor": "#B91000",
+					"hexColor": "#F6AE04",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -723,7 +723,7 @@
 				{
 					"abbreviation": "ACU",
 					"prestige": "79",
-					"hexColor": "#013158",
+					"hexColor": "#4E2681",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -774,7 +774,7 @@
 				{
 					"abbreviation": "UIW",
 					"prestige": "78",
-					"hexColor": "#822433",
+					"hexColor": "#DF2023",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -825,7 +825,7 @@
 				{
 					"abbreviation": "HBU",
 					"prestige": "72",
-					"hexColor": "#00563B",
+					"hexColor": "#02519A",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -876,7 +876,7 @@
 				{
 					"abbreviation": "SFA",
 					"prestige": "62",
-					"hexColor": "#0D395F",
+					"hexColor": "#502C85",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -927,7 +927,7 @@
 				{
 					"abbreviation": "SHST",
 					"prestige": "66",
-					"hexColor": "#AF1E2D",
+					"hexColor": "#FA5301",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -978,7 +978,7 @@
 				{
 					"abbreviation": "LAM",
 					"prestige": "65",
-					"hexColor": "#CE1141",
+					"hexColor": "#E21937",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -1035,7 +1035,7 @@
 			"confTeams": [{
 					"abbreviation": "NDSU",
 					"prestige": "88",
-					"hexColor": "#45156A",
+					"hexColor": "#11502E",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -1086,7 +1086,7 @@
 				{
 					"abbreviation": "UND",
 					"prestige": "83",
-					"hexColor": "#5A0D0D",
+					"hexColor": "#169F64",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -1137,7 +1137,7 @@
 				{
 					"abbreviation": "SDSU",
 					"prestige": "79",
-					"hexColor": "#DEB02E",
+					"hexColor": "#FCDC01",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -1186,9 +1186,9 @@
 					"state": "South Dakota"
 				},
 				{
-					"abbreviation": "USD",
+					"abbreviation": "SDAK",
 					"prestige": "71",
-					"hexColor": "#FDB812",
+					"hexColor": "#A60201",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -1239,7 +1239,7 @@
 				{
 					"abbreviation": "UNI",
 					"prestige": "54",
-					"hexColor": "#660000",
+					"hexColor": "#503591",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -1290,7 +1290,7 @@
 				{
 					"abbreviation": "WIU",
 					"prestige": "65",
-					"hexColor": "#ED7738",
+					"hexColor": "#F8CA07",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -1341,7 +1341,7 @@
 				{
 					"abbreviation": "ILST",
 					"prestige": "53",
-					"hexColor": "#791716",
+					"hexColor": "#CA121F",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -1392,7 +1392,7 @@
 				{
 					"abbreviation": "MOST",
 					"prestige": "76",
-					"hexColor": "#AB1D37",
+					"hexColor": "#68151A",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -1443,7 +1443,7 @@
 				{
 					"abbreviation": "SIU",
 					"prestige": "69",
-					"hexColor": "#00549A",
+					"hexColor": "#74263F",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -1494,7 +1494,7 @@
 				{
 					"abbreviation": "INST",
 					"prestige": "74",
-					"hexColor": "#351E54",
+					"hexColor": "#054B98",
 					"offCoordinator": {
 						"contractLength": "1",
 						"startYear": "2021",
