@@ -518,7 +518,7 @@
 		{
 			"confTeams": [{
 					"abbreviation": "SUT",
-					"prestige": 52",
+					"prestige": "52",
 					"hexColor": "#C1686D",
 					"offCoordinator": {
 						"contractLength": "3",
